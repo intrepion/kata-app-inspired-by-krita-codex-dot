@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "kind": "app",
+  "title": "Kata Mosslight",
+  "repository": "kata-app-inspired-by-krita-codex-dot",
+  "section": "Kata Tool Shed",
+  "category": "Art & Design",
+  "tagline": "A little room to create.",
+  "description": "A quiet digital painting studio with expressive brushes, real paint layers, and a meadow waiting for your first mark.",
+  "entryPoint": "index.html",
+  "status": "published",
+  "features": [
+    "Five continuous brush presets",
+    "Eraser and color sampler",
+    "Pen pressure when supported",
+    "Mirrored strokes and smoothing",
+    "Eight raster layers with opacity and blend modes",
+    "Layer reorder, rename, duplicate and clear",
+    "20-step undo/redo",
+    "Editable project import/export",
+    "Flattened PNG export",
+    "Local autosave",
+    "Image import",
+    "Keyboard painting controls"
+  ],
+  "screenshots": [
+    "docs/screenshots/desktop.jpg",
+    "docs/screenshots/narrow.jpg"
+  ],
+  "inspiration": {
+    "name": "Krita",
+    "url": "https://krita.org/en/"
+  },
+  "license": "MIT",
+  "liveUrl": "https://intrepion.github.io/kata-app-inspired-by-krita-codex-dot/",
+  "sourceUrl": "https://github.com/intrepion/kata-app-inspired-by-krita-codex-dot",
+  "toolShedUrl": "https://intrepion.github.io/tools/"
+}
